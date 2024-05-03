@@ -1,0 +1,278 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header{
+  background-color:black;
+    border:none;
+    padding:1px;
+    width:100%;
+    height:700px;
+    position:fixed;
+    background-image:url('homebg2.jpg');
+    background-position: center;
+    background-size:cover;
+    transition:all 0.3s;
+}
+.di1{
+  font-size: 40px;
+  width:10px;
+  height:10px;
+  position:absolute;
+  margin-right:2%;
+  padding-left:10px;
+  padding-bottom:5px;
+  font-family: Serif, Georgia;
+  color:#fc0808e8;
+}
+.div1{
+    font-size: 40px;
+    width:10px;
+    height:10px;
+    position:absolute;
+    margin-right:2%;
+    padding-left:10px;
+    padding-bottom:5px;
+    font-family: Serif, Georgia;
+    color:#CC99FF;
+  }
+.button1{
+  background-color:transparent;
+  border: none;
+  color: white;
+  padding:10px;
+  text-align: center;
+  font-size: 25px;
+  float:right;
+  cursor:pointer;
+  list-style-type: none;
+}
+.short{
+  width:100%;
+  height:50px;
+  font-size:50px;
+  padding:5px;
+}
+
+.section1{
+  width:1350px;
+  height:14000px;
+  background-color:#FFF8E7;
+  padding:20px;
+  text-align:justify;
+}
+.h1{
+  background-color:#fcd18c;
+  width:100%;
+  height:50px;
+  font-size: 20px;
+  padding-left:5px;
+  font-family: Serif, Georgia;
+  color:#eb0505bc;
+}
+#cat1{
+  background-image:url('cat2.png');
+  background-size:cover;
+  width:1370px;
+  height:500px;
+}
+.text{
+  height:3000px;
+  width:100%;
+}
+.dv1{
+  float:right;
+  border:3px blueviolet solid;
+  padding:5px;
+}
+.dv2{
+  width:60%;
+  color:#CC0066;
+}
+.footer{
+  width:100%;
+  height:40px;
+  background-color: black;
+  position: fixed;
+  inset: auto 0 0 0;
+}
+.btn5{
+  background-color:black;
+  text-align: center;
+  padding-top:5px;
+}
+
+.section2{
+  width:1350px;
+  height:3800px;
+  background-color:#FF99CC;
+  padding:20px;
+  text-align:justify;
+}
+.text2{
+  height:3000px;
+  width:100%;
+}
+.img{
+  float:right;
+  border:3px #53f4f9 solid ;
+  padding:5px;
+}
+.h1-2{
+  background-color:#CC99FF;
+  height:50px;
+  margin-bottom:5px;
+  text-align:justify;
+  padding-left:10px;
+  font-family: Serif, Georgia;
+  color:#193bfe99;
+  font-size: 20px;
+}
+#wiki{
+  width:100%;
+}
+.mySlides {
+  display:none;
+  width:100%;
+  padding-top:10px;
+}
+.gal1{
+  height:4400px;
+}
+div.gallery {
+  margin: 5px;
+  border: 70px solid #f99ae3e2;
+  float: left;
+  
+}
+
+div.gallery:hover {
+  border: 70px solid #000103c3;
+}
+
+div.gallery2 {
+  margin: 5px;
+  border: 70px solid #ccc;
+  float: right;
+  
+}
+.header1{
+  background-color:black;
+  font-size:48px;
+  position:fixed;
+  width:100%;
+  z-index:9;
+}
+.button2{
+  background-color:transparent;
+  border:none;
+  padding:10px;
+  text-align: center;
+  font-size: 25px;
+  float:right;
+  cursor:pointer;
+  list-style-type: none;
+}
+.p1{
+  padding-top:400px;
+  height:900px;
+  margin:auto;
+  background:black;
+}
+#btn6{
+  width:210px;
+  height:210px;
+  background-color:transparent;
+  margin-left:20%;
+  box-shadow: 30px 20px 200px rgb(145, 137, 137);
+}
+.h2{
+  background-color:transparent;
+  width:100%;
+  height:70px;
+  font-size: 40px;
+  padding-left:40%;
+  font-family: Serif, Georgia;
+  color:#eb0505bc;
+}
+.marq{
+  border:2px rgb(76, 43, 226) solid;
+  background-color: #CC99FF;
+  color:chocolate;
+  position: fixed;
+  font-size:15px;
+  inset: auto 0 0 0;
+}
+#ninth{
+  width:60%;
+}
+.div21{
+  width:98%;
+  height:500px;
+  background-color:#C39BD3;
+  font-size: 40px;
+  padding-top:1px;
+  padding-left:30px;
+}
+.div31{
+  width:30%;
+  height:300px;
+  position:relative;
+  float:left;
+}
+.div41{
+  float:left;
+  position:relative;
+  padding-left:9px;
+}
+.floats{
+  float:left;
+  position:relative;
+}
+#contact{
+  margin-left:250px; 
+  padding:0px; 
+  color:coral; 
+  background-color:rgb(253, 153, 233);
+}
+#cntct{
+  color:rgb(50, 15, 15);
+}
+#rsvme{
+  color:rgb(36, 22, 25);
+}
+#rsvme:hover {
+  box-shadow: 5px 5px 30px rgb(131, 126, 126);
+}
+#cntct:hover {
+  box-shadow: 5px 5px 30px rgb(131, 126, 126);
+}
+
+html {
+  scroll-behavior: smooth;
+ }
+ 
+ a {
+  text-decoration: none;
+  color: black;
+ } 
+ 
+ #down {
+  color:#CC0066;
+ } 
+ .header2{
+  background-color:rgb(245, 155, 255);
+  font-size:48px;
+  position:fixed;
+  width:100%;
+  z-index:9;
+ }
+ .cntctDiv{
+  text-align:center;
+   width:450px; 
+   height:150px; 
+   background-color:lightgrey;
+   border-radius:25px;
+ }
+ .cntctDiv:hover{
+  background-color:grey;
+ }
