@@ -1,0 +1,103 @@
+.header1{
+    background-color:black;
+    font-size:48px;
+    position:fixed;
+    width:100%;
+  }
+  .h2{
+    background-color:transparent;
+    width:100%;
+    height:70px;
+    font-size: 40px;
+    padding-left:33%;
+    margin-top:20px;
+    font-family: Serif, Georgia;
+    color:#4ce7f8;
+  }
+  .button2{
+    background-color:black;
+    padding:10px;
+    text-align: center;
+    font-size: 25px;
+    float:right;
+    cursor:pointer;
+    list-style-type: none;
+  }
+  #div{
+    background-color:#d8b9ff;
+    width:100%;
+    height:300px;
+    text-align: center;
+    font-size:37px;
+    padding:2px;
+  }
+  .selectBox{
+    width:220px; 
+    height:40px; 
+    text-align: left;
+    padding-left:10px; 
+    background-color:rgb(246, 143, 203);
+    color:beige;
+  }
+  #btn1{
+    width:520px;
+    font-size:large;
+    height:40px;
+    margin-left:150px;
+    background-color:#C39BD3;
+    color:white;
+    border: 2px black;
+  }
+
+  #btn2{
+    width:520px;
+    font-size:large;
+    height:40px;
+    margin-left:10px;
+    background-color:#C39BD3;
+    color:white;
+    border: 2px black;
+  }
+  div.gallery {
+    margin: 20px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 300px;
+  }
+  div.gallery:hover {
+    border: 2px solid #777;
+    box-shadow:10px 10px 70px #d8b9ff;
+
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding-top:45px;
+    font-size: 17px;
+    text-align: center;
+    height:80px;
+  }
+
+  .div2{
+    width:98%;
+    height:500px;
+    background-color:#C39BD3;
+    font-size: 40px;
+    padding-top:1px;
+    padding-left:30px;
+  }
+  .div3{
+    width:30%;
+    height:300px;
+    position:relative;
+    float:left;
+  }
+  .div4{
+    float:left;
+    position:relative;
+    padding-left:9px;
+  }
