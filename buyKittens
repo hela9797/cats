@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Kittens</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header class="header1">
+        <div>
+                <li class="button2"><a href="gallery.html" style="color:rgb(255, 0, 0)">Gallery |</a></li>
+                <li class="button2"><a href="funFacts.html" style="color:rgb(255, 0, 0)">Fun Facts |</a></li>
+                <li class="button2"><a href="index.html" style="color:rgb(255, 0, 0)">Home |</a></li>
+                <div class="h2"><B>KITTENS CORNER</B></div>
+          </div>
+  </header>
+  <br><br><BR><BR><br>
+    <div style="height:450px;"><div class="w3-content w3-section" style="float:left; width:50%;">
+        <img class="mySlides" src="https://static.vecteezy.com/system/resources/thumbnails/028/699/790/small_2x/white-cat-pink-sofa-generate-ai-photo.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://getwallpapers.com/wallpaper/full/e/2/6/1129612-vertical-cute-cats-wallpaper-1920x1200-for-ipad.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://img.freepik.com/free-photo/cute-kitten-sitting-outdoors-looking-camera-with-playful-eyes-generated-by-artificial-intelligence_188544-84782.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_1280.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://cdn.pixabay.com/photo/2023/09/21/17/05/european-shorthair-8267220_1280.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://cdn.pixabay.com/photo/2022/12/31/14/32/cat-7688749_1280.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://cdn.pixabay.com/photo/2022/12/30/11/09/cat-7686662_1280.jpg" style="width:100%; height:450px;">
+        <img class="mySlides" src="https://cdn.pixabay.com/photo/2018/03/27/17/25/cat-3266673_1280.jpg" style="width:100%; height:450px;">
+    </div>
+    <div style="float:left; width:50%;">
+      <iframe width="100%" height="450px;" src="https://www.youtube.com/embed/fEph7LI7iCk?si=4cFFWvj8R2ndPo1Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    </div>
+  <main>
+        <div style="background-color:#ffe1f5; width:100%;  height:3550px;">
+        <div id="div">
+            <h1><i><B>Pets For Sale - Trustworthy Kitten Sellers</B></i></h1>
+            <p style="font-size:25px; text-align: left; padding-left: 2%; ">Kittens.com connects pawsome people like you with happy, healthy pets for sale from our respected, prominent breeder relationships we’ve established over the last 15 years. Join our community of paw lovers across India.
+            </p>
+        </div>
+        <BR><BR>
+        <div>
+            <div class="gallery">
+                <a href="americanShorthair.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2207-300x300.jpeg" alt="American Shorthair" width="600" height="400">
+                </a>
+                <div class="desc">American Shorthair Cats / Kittens</div>
+              </div>
+            <div class="gallery">
+                <a href="bengal.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2134-300x300.jpeg" alt="Bengal" width="600" height="400">
+                </a>
+                <div class="desc">Bengal Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="birman.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2221-600x600.jpeg" alt="Birman" width="600" height="400">
+                </a>
+                <div class="desc">Birman Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="britishLonghair.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2149-300x300.jpeg" alt="British Long Hair" width="600" height="400">
+                </a>
+                <div class="desc">British Long Hair Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="britishShorthair.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2155-300x300.jpeg" alt="British Short Hair" width="600" height="400">
+                </a>
+                <div class="desc">British Short Hair Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="burmese.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2230-300x300.jpeg" alt="Burmese" width="600" height="400">
+                </a>
+                <div class="desc">Burmese Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="calico.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2158-600x600.jpeg" alt="Calico" width="600" height="400">
+                </a>
+                <div class="desc">Calico Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="chinchilla.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2365-300x300.jpeg" alt="Chinchilla" width="600" height="400">
+                </a>
+                <div class="desc">Chinchilla Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="exoticShorthair.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2119-600x600.jpeg" alt="Exotic Short Hair" width="600" height="400">
+                </a>
+                <div class="desc">Exotic Short Hair Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="himalayan.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2167-300x300.jpeg" alt="Himalayan" width="600" height="400">
+                </a>
+                <div class="desc">Himalayan Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="maineCoon.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2175.webp" alt="Maine Coon" width="600" height="400">
+                </a>
+                <div class="desc">Maine Coon Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="munchkin.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2208-600x600.jpeg" alt="Munchkin" width="600" height="400">
+                </a>
+                <div class="desc">Munchkin Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="persianBlue.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2094-300x300.jpeg" alt="Persian Blue Eyes" width="600" height="400">
+                </a>
+                <div class="desc">Persian Cats / Kittens - Blue Colour Eyes</div>
+            </div>
+            <div class="gallery">
+                <a href="persianDollface.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2107-300x300.jpeg" alt="Persian Doll Face" width="600" height="400">
+                </a>
+                <div class="desc">Persian Cats / Kittens - Doll Face</div>
+            </div>
+            <div class="gallery">
+                <a href="persianDual.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2092-300x300.jpeg" alt="Persian Dual Colour Eyes" width="600" height="400">
+                </a>
+                <div class="desc">Persian Cats / Kittens - Dual Colour Eyes</div>
+            </div>
+            <div class="gallery">
+                <a href="persianNormal.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2097-300x300.jpeg" alt="Persian Normal Eyes" width="600" height="400">
+                </a>
+                <div class="desc">Persian Cats / Kittens - Normal Eyes</div>
+            </div>
+            <div class="gallery">
+                <a href="persianPunchface.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2113-600x600.jpeg" alt="Persian Punch Face" width="600" height="400">
+                </a>
+                <div class="desc">Persian Cats / Kittens - Punch Face</div>
+            </div>
+            <div class="gallery">
+                <a href="persianSemipunch.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2122.jpeg" alt="Persian Semi Punch Face" width="600" height="400">
+                </a>
+                <div class="desc">Persian Cats / Kittens - Semi Punch Face</div>
+            </div>
+            <div class="gallery">
+                <a href="ragDoll.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2182-300x300.jpeg" alt="Rag Doll" width="600" height="400">
+                </a>
+                <div class="desc">Rag Doll Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="russianBlue.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2186-300x300.jpeg" alt="Russian Blue" width="600" height="400">
+                </a>
+                <div class="desc">Russian Blue Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="scottishFold.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2214-300x300.jpeg" alt="Scottish Fold" width="600" height="400">
+                </a>
+                <div class="desc">Scottish Fold Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="siamese.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2193-300x300.jpeg" alt="Siamese" width="600" height="400">
+                </a>
+                <div class="desc">Siamese Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="siberian.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2195-300x300.jpeg" alt="Siberian" width="600" height="400">
+                </a>
+                <div class="desc">Siberian Cats / Kittens</div>
+            </div>
+            <div class="gallery">
+                <a href="sphynx.html">
+                  <img src="https://puppiezo.com/wp-content/uploads/2023/06/IMG_2198-300x300.jpeg" alt="Sphynx" width="600" height="400">
+                </a>
+                <div class="desc">Sphynx Cats / Kittens</div>
+            </div>
+        <div style="padding:20px; text-align:justify;">
+            <p style="display:inline; font-size:20px;"><span style="font-size: 30px;">K</span><span>ittens.com isn’t just a pet website, it’s a trustworthy pet community: A full pack of pawsome pet parents, pawsome pups, and endless pawsibilities. We believe that every pet (Dog or Cat) deserves a loving and caring home, and every individual deserves the absolute love of a furry buddy. So, what are you waiting for? Join the pack, and let’s wag our tails together! ❤️😼🐈🐾🧶</span></p>
+        </div>
+        </div>
+        <div class="div2">
+            <p><b><i>Our Policies &emsp; &emsp; &emsp; &emsp; Our Services</i></b></p>
+            <div class="div3">
+            <a href="termsConditions.html" style="font-size:25px; color:white;">Terms and Conditions</a>
+           <br>
+            <a href="privacyPolicy.html" style="font-size:25px; color:white;">Privacy Policy</a>
+            <br>
+            <a href="reutrnPolicy.html" style="font-size:25px; color:white;">Return Policy</a><br>
+            <a href="healthGuarantee.html" style="font-size:25px; color:white;">Health Guarantee</a><br>
+            <a href="firstApproach.html" style="font-size:25px; color:white;">Our Pets First Approach</a><br>
+            <a href="ourTeam.html" style="font-size:25px; color:white;">Our Team</a><br>
+            </div>
+            <div class="div4">
+                <a href="contact.html" style="font-size:25px; color:white;">Contact Us</a>
+                <br>
+                <a href="customerReviews.html" style="font-size:25px; color:white;">Customer Reviews</a>
+            </div>
+        </div>
+        <div style=" height:45px; background-color:black; color:white; text-align:center; padding-top:20px;">
+          © 2024 Kittens.com Inc. All rights reserved
+      </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
