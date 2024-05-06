@@ -101,3 +101,19 @@
     position:relative;
     padding-left:9px;
   }
+#down {
+    color:#CC0066;
+   } 
+.btn0{
+    width:120px; 
+    height:50px; 
+    background-color:rgb(127, 242, 255); 
+    color:blueviolet; 
+    border:1px solid rgb(127, 242, 255); 
+    font-size:20px; 
+    text-align:left;
+   }
+   .btn0:hover{
+    background-color:rgb(127, 232, 275);
+   }
+ 
